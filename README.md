@@ -1,2 +1,2 @@
 # BlindEye
-# HACKING4PEACE #
+Hacking For Peace
